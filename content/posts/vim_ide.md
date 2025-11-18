@@ -1,10 +1,9 @@
+
 +++
 date = '2025-11-18T15:43:25+08:00'
 draft = false 
-title = 'Vim_ide'
+title = '高效使用vim'
 +++
-
-[TOC]
 
 # 高效使用VIM 
 **VIM这么难用**为什么这么多人热衷
