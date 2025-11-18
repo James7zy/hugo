@@ -1,6 +1,6 @@
 baseURL = 'http://100.117.217.84/'
 languageCode = 'en-us'
-title = 'New Hugo Site'
+title = 'Hacker Mind Site'
 theme = "PaperMod"
 
 [params]
