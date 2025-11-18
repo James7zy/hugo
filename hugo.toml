@@ -1,4 +1,20 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://100.117.217.84/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "ananke"
+title = 'New Hugo Site'
+theme = "PaperMod"
+
+[params]
+  enableMermaid = true
+  [params.mermaid]
+    theme = "default"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[math]
+  enable = true
