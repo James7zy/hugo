@@ -2,6 +2,7 @@
 date = '2025-11-18T16:31:01+08:00'
 draft = false 
 title = 'AI 高效阅读'
+categories = ['blog']
 +++
 
 ### 核心思路：让AI成为你的“高级阅读助手”

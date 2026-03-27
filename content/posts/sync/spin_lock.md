@@ -2,6 +2,7 @@
 date = '2026-03-27T20:30:36+08:00'
 draft = false
 title = 'Spin_lock'
+categories = ['sync']
 +++
 
 ## 同步管理

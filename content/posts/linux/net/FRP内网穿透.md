@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'FRP内网穿透'
+categories = ['linux', 'net']
 +++
 
 # 内网穿透

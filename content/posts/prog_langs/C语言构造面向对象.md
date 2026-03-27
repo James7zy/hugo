@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'C语言构建面向对象'
+categories = ['prog_langs']
 +++
 
 C语言构建面向对象：

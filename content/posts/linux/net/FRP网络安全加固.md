@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'FRP网络安全加固'
+categories = ['linux', 'net']
 +++
 
 # FRP网络安全加固

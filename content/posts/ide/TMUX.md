@@ -3,6 +3,7 @@
 date = '2025-11-18T16:43:54+08:00'
 draft = false 
 title = 'TMUX终端使用'
+categories = ['ide']
 +++
 # TMUX终端使用
 一、Tmux 是什么？

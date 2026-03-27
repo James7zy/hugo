@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'TCP 连接本质'
+categories = ['linux', 'net']
 +++
 ### 一、TCP 连接的本质
 

@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'gdb内核调试'
+categories = ['linux', 'debug']
 +++
 
 # 使用GDB调试内核

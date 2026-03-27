@@ -2,6 +2,7 @@
 date = '2025-11-18T16:31:01+08:00'
 draft = false 
 title = 'NVIM 增加gtags'
+categories = ['ide']
 +++
 
 **NVIM 增加：**

@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = '树莓派4B-Openwrt安装OpenClash'
+categories = ['linux', 'net']
 +++
 
 # 前言

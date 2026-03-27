@@ -3,6 +3,7 @@
 date = '2025-11-18T15:43:25+08:00'
 draft = false 
 title = '高效使用vim'
+categories = ['ide']
 +++
 
 # 高效使用VIM 

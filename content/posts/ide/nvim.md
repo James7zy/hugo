@@ -2,6 +2,7 @@
 date = '2025-11-18T16:43:54+08:00'
 draft = false 
 title = 'Nvim'
+categories = ['ide']
 +++
 
 # 版本信息

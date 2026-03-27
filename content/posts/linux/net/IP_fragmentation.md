@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'IP 分片概念'
+categories = ['linux', 'net']
 +++
 
 IP 分片（**IP Fragmentation**）的作用非常关键，它解决了 **不同网络链路最大传输单元（MTU）不一致** 时，数据包无法完整传输的问题。下面是详细解释 👇

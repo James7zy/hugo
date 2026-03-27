@@ -2,6 +2,7 @@
 date = '2024-11-18T13:27:19+08:00'
 draft = false
 title = 'KVM-tool虚拟化调试环境'
+categories = ['linux', 'virtual']
 +++
 
 # KVM-tool 虚拟化调试搭建

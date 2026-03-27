@@ -2,6 +2,7 @@
 date = '2025-11-18T16:31:01+08:00'
 draft = false 
 title = 'vscode gunGlobal配置'
+categories = ['ide']
 +++
 
 # vscode 支持gtags快速跳转
