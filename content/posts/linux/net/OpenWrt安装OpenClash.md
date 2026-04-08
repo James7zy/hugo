@@ -25,7 +25,7 @@ opkg remove dnsmasq
 mv /etc/config/dhcp /etc/config/dhcp.bak
 ```
 
-![](_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/0057a5bb266450df8ade91026a100790_MD5.jpg)
+![](/_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/0057a5bb266450df8ade91026a100790_MD5.jpg)
 
 > 这是因为接下来需要安装 `dnsmasq-full` ，它会与之冲突
 
@@ -65,17 +65,17 @@ opkg install coreutils-nohup bash curl ca-certificates ipset ip-full libcap libc
 
 通过SSH连接至OpenWrt，依次输入命令即可安装。
 
-![](_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/22a7ffdd95a617a035f8d422e876d22d_MD5.jpg)
+![](/_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/22a7ffdd95a617a035f8d422e876d22d_MD5.jpg)
 
 ### 安装程序文件
 
 在 [Github Release](https://github.com/vernesong/OpenClash/releases) 下载最新的程序文件，上传软件包进行安装。
 
-![](_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/eef66d0a1e73ac05f972bb7a95c8f274_MD5.jpg)
+![](/_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/eef66d0a1e73ac05f972bb7a95c8f274_MD5.jpg)
 
 > 刷新页面无法看到程序的话，重新登录一下OpenWrt
 > 
-> ![](_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/e86116f680a5c7563afb3635cc9645b7_MD5.jpg)
+> ![](/_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/e86116f680a5c7563afb3635cc9645b7_MD5.jpg)
 
 ## 配置
 
@@ -83,7 +83,7 @@ opkg install coreutils-nohup bash curl ca-certificates ipset ip-full libcap libc
 
 首先打开【插件设置】-【版本更新】，这边文件不存在的都要进行更新，如果本地网络无法更新的话，点击右侧的【下载到本地】上传到相应目录即可。
 
-![](_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/03ffe22afda2ab6f30e47c8c7236951c_MD5.jpg)
+![](/_resources/OpenWrt%E5%AE%89%E8%A3%85OpenClash/03ffe22afda2ab6f30e47c8c7236951c_MD5.jpg)
 
 ### 订阅设置
 
