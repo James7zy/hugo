@@ -1,7 +1,7 @@
 +++
 date = '2024-11-18T13:27:19+08:00'
 draft = false
-title = 'KVM-QEMU虚拟化调试环境'
+title = 'KVM-QEMU-ARM虚拟化调试环境'
 categories = ['linux', 'virtual']
 +++
 
