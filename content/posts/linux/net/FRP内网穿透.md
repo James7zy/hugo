@@ -80,6 +80,18 @@ FRP 客户端的配置文件是 frpc.toml（从 v0.52.0 版本开始，配置文
    
    ```bash
    nano frpc.toml
+    serverAddr = "10.0.0.1"
+    serverPort = 7000
+    
+    auth.method = "token"
+    auth.token = "yots+y0IwjeRtA4pcZjxknHRcYozxJjZTtT7SVeKJ1s=09876"
+    
+    [[proxies]]
+    name = "ssh-home"
+    type = "tcp"
+    localIP = "127.0.0.1"
+    localPort = 22
+    remotePort = 7022
    ```
    
    （你也可以使用 vim 或其他编辑器）
@@ -109,7 +121,7 @@ ExecReload=/bin/kill -SIGUSR1 $MAINPID
 WantedBy=multi-user.target
 ```
 
-   · remotePort = 6000 意味着，之后你在外部访问 公网服务器IP:6000，流量就会被转发到这台 ARM 设备的 22 端口（SSH）上。
+   · remotePort = 7022 意味着，之后你在外部访问 公网服务器IP:7022，流量就会被转发到这台 ARM 设备的 22 端口（SSH）上。
 
 🚀 第三步：运行 FRP 客户端
 有两种常见的方式运行客户端：直接启动（用于测试）或配置为系统服务（推荐，用于长期运行）。
