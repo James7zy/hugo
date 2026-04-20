@@ -47,6 +47,19 @@ normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 import = [
     "~/.config/alacritty/themes/themes/{alacritty_0_12}.toml"
 ]
+
+[keyboard]
+bindings = [
+    # 复制 (Cmd + C)
+
+    { key = "C", mods = "Control|Shift", action = "Copy" },
+
+    # 粘贴 (Cmd + V)
+    { key = "V", mods = "Control|Shift", action = "Paste" },
+
+    # 查找
+    { key = "F", mods = "Control", action = "SearchForward" }
+]
 ```
 
 
