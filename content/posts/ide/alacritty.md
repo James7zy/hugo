@@ -136,3 +136,20 @@ Host myserver
 ```
 ssh myserver
 ```
+
+# windows terminal 配置
+配置字符集，让nvim能够显示对应的字符！
+```
+            {
+                "colorScheme": "tokyonight",
+                "guid": "{47302f9c-1ac4-566c-aa3e-8cf29889d6ab}",
+                "hidden": false,
+                "name": "Nushell",
+                "source": "nu",
+                "font": {
+                    "face": "JetBrainsMono Nerd Font",
+                    "size": 12
+                }
+            }
+```
+
