@@ -1,4 +1,4 @@
-baseURL: "http://100.117.217.84/"
+baseURL: "http://192.168.115.99:1313"
 title: ExampleSite
 theme: PaperMod
 
